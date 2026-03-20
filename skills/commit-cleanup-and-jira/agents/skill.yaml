@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commit Cleanup and Jira"
+  short_description: "Clean commits and draft short Jira updates"
+  default_prompt: "Use $commit-cleanup-and-jira to clean up recent commits and draft a short Jira update for review."

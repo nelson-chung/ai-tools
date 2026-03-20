@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit Message Amend"
+  short_description: "Amend the latest commit message with a guided flow that drafts and reviews the summary before rewriting."
+  default_prompt: "Help me amend the latest git commit message, ask first whether to follow the repository template, draft the summary for me, and review it before amending."
