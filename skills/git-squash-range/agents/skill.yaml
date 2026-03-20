@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit Squash"
+  short_description: "Squash recent commits ending at HEAD with safety checks."
+  default_prompt: "Help me squash recent commits from HEAD back to a target commit id."
